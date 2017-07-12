@@ -179,7 +179,7 @@ DNSサーバ
 #### 画像を表示する
 
 ```
-<img src="" width="" height="" alt="" />
+< img src="" width="" height="" alt="" >
 
 ```
 
