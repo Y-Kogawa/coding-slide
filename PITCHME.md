@@ -164,10 +164,28 @@ DNSサーバ
 
 1. メモ帳
 2. 秀丸エディタ
-3. Sublime Text
+3. **Sublime Text**
 4. Atom
 5. Dreamweaver
 
-**会社ではSublime Textを使用している**
-
 参考：[今日から使える！Sublime Textの使い方【初心者向け】](https://techacademy.jp/magazine/3060)
+
+---
+
+### 画像を表示する
+
+```
+<img src="" width="" height="" alt="">
+```
+
+参考：[画像を表示する](http://www.tagindex.com/html5/text/img.html)
+
+---
+
+### リンクを設定する
+
+```
+<a href="" target="">リンクテキスト</a>
+```
+
+参考：[リンクを設定する](http://www.tagindex.com/html5/text/a.html)
