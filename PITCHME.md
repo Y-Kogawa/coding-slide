@@ -54,15 +54,10 @@ DNSサーバ
 
 ---
 ## ブラウザについて
-1. Google Chrome
-2. Firefox
-3. Safari
-4. Internet Explorer
-5. Edge
-6. iOS Safari
-7. iOS Chrome
-8. Android ブラウザ
-9. Android Chrome
+1. Windows Google Chrome / Firefox / Internet Explorer / Edge
+3. Mac Google Chrome / Firefox / Safari
+6. iOS Safari / Chrome
+8. Android ブラウザ / Chrome
 
 いろいろある！！
 
