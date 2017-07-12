@@ -161,11 +161,10 @@ DNSサーバ
 必要なものはテキストエディタだけ
 
 1. メモ帳
-2. WordPad
-3. 秀丸エディタ
-4. Sublime Text
-5. Atom
-6. Dreamweaver
+2. 秀丸エディタ
+3. Sublime Text
+4. Atom
+5. Dreamweaver
 
 **会社ではSublime Textを使用している**
 
