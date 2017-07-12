@@ -189,3 +189,29 @@ DNSサーバ
 ```
 
 参考：[リンクを設定する](http://www.tagindex.com/html5/text/a.html)
+
+### パス（path）について
+
+pathとは特定のファイルを指定するための文字列のこと  
+相対パス・絶対パス・サイトルート相対パスなどがある
+
++++
+
+#### 絶対パス
+```
+<img src="http://hoge.com/image/photo.jpg">
+```
+
++++
+
+#### 相対パス
+```
+<img src="../../image/photo.jpg">
+```
+
++++
+
+#### サイトルート相対パス
+```
+<img src="/image/photo.jpg">
+```
