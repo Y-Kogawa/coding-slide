@@ -172,23 +172,29 @@ DNSサーバ
 
 ---
 
-### 画像を表示する
+### HTMLを書いてみよう
+
+#### 画像を表示する
 
 ```
 <img src="" width="" height="" alt="">
+
 ```
 
 参考：[画像を表示する](http://www.tagindex.com/html5/text/img.html)
 
----
++++
 
-### リンクを設定する
+#### リンクを設定する
 
 ```
 <a href="" target="">リンクテキスト</a>
+
 ```
 
 参考：[リンクを設定する](http://www.tagindex.com/html5/text/a.html)
+
+---
 
 ### パス（path）について
 
