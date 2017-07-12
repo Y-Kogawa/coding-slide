@@ -45,7 +45,11 @@ DNSサーバ（URLのIPアドレスが送られてくる）
 8. Android ブラウザ
 9. Android Chrome
 
+いろいろある！！
+
+参考：[ウェブブラウザ](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%96%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6)  
 参考：[ウェブブラウザの一覧](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%96%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E3%81%AE%E4%B8%80%E8%A6%A7)
+
 ---
 ## HTMLとCSSの関係性
 HTMLとCSSの役割と、お互いにいくつかバージョンがあるが依存関係はないことについて
