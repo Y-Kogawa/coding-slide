@@ -176,7 +176,7 @@ DNSサーバ
 
 テキストエディタで新規ファイルを開く
 
-![](./image001.jpg)
+![](https://raw.githubusercontent.com/Y-Kogawa/coding-slide/master/image001.png)
 
 +++
 
@@ -200,7 +200,7 @@ HTML文書の定義をする
 
 .htmlの拡張子で保存する
 
-![](./image002.jpg)
+![](https://raw.githubusercontent.com/Y-Kogawa/coding-slide/master/image002.png)
 
 
 ---
