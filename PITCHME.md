@@ -198,10 +198,37 @@ HTML文書の定義をする
 
 +++
 
+`<body></body>`の間に文字を入力する
+
+```
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>Document</title>
+</head>
+<body>
+
+Hello World!
+
+</body>
+</html>
+```
+
++++
+
 .htmlの拡張子で保存する
 
 ![](https://raw.githubusercontent.com/Y-Kogawa/coding-slide/master/image002.png)
 
++++
+
+ブラウザで保存したファイルを開く
+
+![](https://raw.githubusercontent.com/Y-Kogawa/coding-slide/master/image003.png)
+
+
+ここまでが基本的なHTMLファイルの作り方です。
 
 ---
 
