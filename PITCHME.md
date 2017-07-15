@@ -174,6 +174,35 @@ DNSサーバ
 
 ### HTMLを書いてみよう
 
+テキストエディタで新規ファイルを開く
+
+![](./image001.jpg)
+
++++
+
+HTML文書の定義をする
+
+```
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Document</title>
+</head>
+<body>
+	
+</body>
+</html>
+```
+
++++
+
+.htmlの拡張子で保存する
+
+![](./image002.jpg)
+
+
 ---
 
 #### 画像を表示する
@@ -200,8 +229,8 @@ DNSサーバ
 
 ### パス（path）について
 
-pathとは特定のファイルを指定するための文字列のこと  
-相対パス・絶対パス・サイトルート相対パスなどがある
+1. pathとは特定のファイルを指定するための文字列のこと
+2. 相対パス・絶対パス・サイトルート相対パスなどがある
 
 +++
 
@@ -223,3 +252,6 @@ pathとは特定のファイルを指定するための文字列のこと
 ```
 <img src="/image/photo.jpg">
 ```
+
+### スタイルシートを使ってみよう
+
