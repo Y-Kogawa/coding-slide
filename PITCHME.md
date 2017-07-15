@@ -178,6 +178,8 @@ DNSサーバ
 
 ![](https://raw.githubusercontent.com/Y-Kogawa/coding-slide/master/image001.png)
 
+↓
+
 +++
 
 HTML文書の定義をする
@@ -195,6 +197,8 @@ HTML文書の定義をする
 </body>
 </html>
 ```
+
+↓
 
 +++
 
@@ -215,11 +219,15 @@ Hello World!
 </html>
 ```
 
+↓
+
 +++
 
 .htmlの拡張子で保存する
 
 ![](https://raw.githubusercontent.com/Y-Kogawa/coding-slide/master/image002.png)
+
+↓
 
 +++
 
