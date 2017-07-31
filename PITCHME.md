@@ -172,7 +172,7 @@ DNSサーバ
 
 ---
 
-### HTMLを書いてみよう
+### HTMLを書いてみる
 
 テキストエディタで新規ファイルを開く
 
@@ -271,22 +271,82 @@ Hello World!
 
 #### 絶対パス
 ```
-<img src="http://hoge.com/image/photo.jpg">
+<img src="http://hoge.com/image/photo.jpg" alt="">
 ```
 
 +++
 
 #### 相対パス
 ```
-<img src="../../image/photo.jpg">
+<img src="../../image/photo.jpg" alt="">
 ```
 
 +++
 
 #### サイトルート相対パス
 ```
-<img src="/image/photo.jpg">
+<img src="/image/photo.jpg" alt="">
 ```
 
-### スタイルシートを使ってみよう
+---
 
+## スタイルシートの使い方
+
+### スタイルシートの書き方
+
+```
+.class {
+	margin: 0;
+	padding: 10px 5px 10px;
+	background-color: #f00;
+}
+
+#id {
+	width: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+```
+
+参考：[CSSの基本的な書き方](https://techacademy.jp/magazine/4872)  
+参考：[CSSリファレンス](http://www.tohoho-web.com/css/)  
+参考：[CSS3のセレクタ全42種](http://wp-e.org/2014/05/20/2420/)
+
+---
+
+### スタイルシートの適用方法
+
+1. CSSファイルを作成してHTMLから読み込む
+2. HTMLのhead内に記述する
+3. HTMLタグに直接記述する
+
+**基本的にはCSSファイルを作成する方法を用いる**
+
++++
+
+```
+<head>
+<link href="style.css" rel="stylesheet">
+</head>
+```
+
++++
+
+```
+<head>
+<style type="text/css">
+.class {
+	margin: 0;
+}
+</style>
+</head>
+```
+
++++
+
+```
+<h1 style="margin: 0 0 10px; border-bottom: 5px solid #f00">見出し</h1>
+```
+
++++
