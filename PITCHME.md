@@ -419,6 +419,10 @@ Hello World!
 
 > テキストでの説明が大変なので実演
 
+参考：[プロなら知っておきたい！Photoshop文字設定とCSSプロパティの相互関係](http://sole-color-blog.com/blog/design/31/)  
+参考：[Photoshopでスライス機能を使う方法【初心者向け】](https://techacademy.jp/magazine/2327)  
+参考：[レイヤーからの画像アセットの生成](https://helpx.adobe.com/jp/photoshop/using/generate-assets-layers.html)
+
 ---
 
 ## Webページ上でのフォントの扱いについて
